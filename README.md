@@ -1,2 +1,2 @@
 # mcfermclik
-isntall exe
+install exe
