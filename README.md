@@ -1,1 +1,2 @@
 # mcfermclik
+isntall exe
